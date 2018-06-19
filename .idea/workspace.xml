@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a913c40b-ff64-4c4e-a78f-648ff66fd76c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/00caogao.py" afterPath="$PROJECT_DIR$/00caogao.py" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -206,8 +204,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="404" />
-    <option name="y" value="50" />
+    <option name="x" value="703" />
+    <option name="y" value="80" />
     <option name="width" value="1440" />
     <option name="height" value="820" />
   </component>
@@ -581,7 +579,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="404" y="50" width="1440" height="820" extended-state="0" />
+    <frame x="703" y="80" width="1440" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.82191783" order="0" side_tool="false" content_ui="combo" />
