@@ -1,2 +1,2 @@
-a,b = (1,2)
-print(a)
+a = {1:1 ,2:2}
+print(list(a.keys() ))
